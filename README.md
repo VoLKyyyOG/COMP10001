@@ -27,9 +27,6 @@ Live Consultation
 - Code Editor: [VS Code](https://code.visualstudio.com/)
 - Browser: [Brave - based off Chronium with in-built adblocking](https://brave.com/)
 
-### Extra Info on UniMelb's Data Science Major:
-- https://github.com/akiratwang/UniMelb-Data-Science
-
 ### Relevant Meme:
 ![alt text](Capture.PNG)
 
