@@ -4,17 +4,12 @@
 Name: Akira Takihara Wang
 Staff: akira.wang@unimelb.edu.au
 ```
-Tutorial content is slightly out of sync compared to usual (due to COVID).
 
-### Times
-##### Wed 9am - 10am 
-https://unimelb.zoom.us/s/99094275769
+### Summer Term Workshop Times
+##### Tues 1pm - 2pm
 
-##### Thurs 5:15pm - 6:15pm
-https://unimelb.zoom.us/s/94153061149
+##### Tues 2:15pm - 3:15pm
 
-##### Monday 6 - 7pm 
-Live Consultation
 
 ### Python Documentation
 - [All Python String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods).
@@ -25,7 +20,7 @@ Live Consultation
 - Search Engine: [Duck Duck Go](https://duckduckgo.com/)
 - Stack Overflow (Yahoo answers / Quora for programmers): [Stack Overflow](https://stackoverflow.com/)
 - Code Editor: [VS Code](https://code.visualstudio.com/)
-- Browser: [Brave - based off Chronium with in-built adblocking](https://brave.com/)
+- Browser: [Brave - based off Chromium with in-built adblocking](https://brave.com/)
 
 ### Relevant Meme:
 ![alt text](Capture.PNG)
