@@ -12,11 +12,9 @@ Staff: akira.wang@unimelb.edu.au
 #### Tues 2:15pm - 3:15pm:  
 - Join URL: https://unimelb.zoom.us/j/82576038134?pwd=ZEpYcVBIRkxrNDRjVHNraHZ0YWZFUT09
 
-#### Tues 3:15pm - 4:15pm:  
-- Join URL: https://unimelb.zoom.us/j/89107385937?pwd=LzhxQ0JvMDZYY1RrMWFBRkRZdlpxdz09
 
-#### Tues 4:15pm - 5:15pm:  
-- Join URL: https://unimelb.zoom.us/j/82252456838?pwd=YlRoSW5Xc2tOTzZBQXo5WXlGc0ZRUT09
+#### Consultation Times:
+- TBA
 
 ### Python Documentation
 - [All Python String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods).
