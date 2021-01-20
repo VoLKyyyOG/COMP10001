@@ -14,7 +14,7 @@ Staff: akira.wang@unimelb.edu.au
 
 
 #### Consultation Times:
-- TBA
+- Tuesday 3:15pm - 5:15pm via Grok
 
 ### Python Documentation
 - [All Python String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods).
