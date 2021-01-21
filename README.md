@@ -13,8 +13,9 @@ Staff: akira.wang@unimelb.edu.au
 - Join URL: https://unimelb.zoom.us/j/82576038134?pwd=ZEpYcVBIRkxrNDRjVHNraHZ0YWZFUT09
 
 
-#### Consultation Times:
-- Tuesday 3:15pm - 5:15pm via Grok
+#### Live Consultation Times:
+- Friday 1pm - 2pm
+- TBA
 
 ### Python Documentation
 - [All Python String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods).
