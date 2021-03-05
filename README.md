@@ -3,18 +3,18 @@
 ```
 Name: Akira Takihara Wang
 Staff: akira.wang@unimelb.edu.au
-Role: Head Tutor (Summer Term)
+Role: Head Tutor (Summer Term) / Tutor (Semester)
 ```
 
 ### Summer Term Workshop Times
-#### Tues 1pm - 2pm:  
-- Join URL: https://unimelb.zoom.us/j/81137568190?pwd=WnVwYWplUTdNbU94c3R3TjE2dTFadz09
+#### Mon 12pm - 1pm:  
+- Join URL: https://unimelb.zoom.us/j/87996914707?pwd=OEs2YUYzdEI1bnVndjhEMzFNbDlHUT09
 
-#### Tues 2:15pm - 3:15pm:  
-- Join URL: https://unimelb.zoom.us/j/82576038134?pwd=ZEpYcVBIRkxrNDRjVHNraHZ0YWZFUT09
+#### Fri 2pm - 3pm 
+- Join URL: https://unimelb.zoom.us/j/84283482577?pwd=UWExSjM3c2NtUGdlTnRPdGlYSmRFdz09
 
 #### Live Consultation Times:
-- Monday/Friday 1pm - 2pm: https://unimelb.zoom.us/j/6908756681?pwd=SGxCbTR4QkwyT2RGcnI3U1pkOHlXQT09
+- TBA
 
 ### Python Documentation
 - [All Python String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods).
