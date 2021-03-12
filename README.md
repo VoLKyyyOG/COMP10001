@@ -33,3 +33,4 @@ Role: Head Tutor (Summer Term) / Tutor (Semester)
 Please attribute your code if you take it from stackoverflow. We know what's yours and what's not :^)
 
 (actually i want this instead)
+(new test for today friday)
