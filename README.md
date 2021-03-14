@@ -6,7 +6,7 @@ Staff: akira.wang@unimelb.edu.au
 Role: Head Tutor (Summer Term) / Tutor (Semester)
 ```
 
-### Summer Term Workshop Times
+### Semester 1 Workshop Times
 #### Mon 12pm - 1pm:  
 - Join URL: https://unimelb.zoom.us/j/87996914707?pwd=OEs2YUYzdEI1bnVndjhEMzFNbDlHUT09
 
@@ -31,6 +31,3 @@ Role: Head Tutor (Summer Term) / Tutor (Semester)
 ![alt text](Capture.PNG)
 
 Please attribute your code if you take it from stackoverflow. We know what's yours and what's not :^)
-
-(actually i want this instead)
-(new test for today friday)
