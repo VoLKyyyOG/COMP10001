@@ -10,11 +10,15 @@ Role: Head Tutor (Summer Term) / Tutor (Semester)
 #### Mon 12pm - 1pm:  
 - Join URL: https://unimelb.zoom.us/j/87996914707?pwd=OEs2YUYzdEI1bnVndjhEMzFNbDlHUT09
 
+### Thurs 1pm - 2pm;
+- 107 Leicester St (in person)
+
 #### Fri 2pm - 3pm 
 - Join URL: https://unimelb.zoom.us/j/84283482577?pwd=UWExSjM3c2NtUGdlTnRPdGlYSmRFdz09
 
 #### Live Consultation Times:
-- TBA
+- None
+
 
 ### Python Documentation
 - [All Python String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods).
